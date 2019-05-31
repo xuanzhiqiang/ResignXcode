@@ -56,5 +56,7 @@ if __name__ == '__main__':
         os.system('rm -rf %s' % TEMP_DIR)
 
     print('\xF0\x9f\x8d\xba  Resign finished. Have fun!')
+
+    
     
     
